@@ -19,7 +19,7 @@ To run this Repository Code
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/Hunter16x2-8/Nerual_Network.git
     ```
 2. Navigate to Project directory:
     ```bash

@@ -8,8 +8,8 @@ import numpy as np
 import pandas as pd
 from matplotlib import pyplot as plt
 
-data = pd.read_csv('C:/Users/nickg/Documents/Projects/Neural_Network/MNIST_CSV/mnist_train.csv')
-test_data = pd.read_csv('C:/Users/nickg/Documents/Projects/Neural_Network/MNIST_CSV/mnist_test.csv')
+data = pd.read_csv('Train File Location')
+test_data = pd.read_csv('Test File Location')
 
 
 data = np.array(data)
